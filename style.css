@@ -1,0 +1,131 @@
+body{
+  background-image: linear-gradient(to bottom, rgb(120, 149, 178), rgb(234, 238, 241));
+}
+    h2{
+      margin-left: 38px;
+    }
+
+    h3{
+      margin-left: 20px;
+    }
+
+    h4{
+      font-size: 95%;
+      margin-left: 3px;
+    }
+
+
+
+header{
+  height: 100px;
+}
+      .circle1{
+        width: 150px;
+        height: 150px;
+        background-color: rgb(172, 112, 136);
+        border-radius: 50%;
+        margin-left: 570px;
+        margin-top: 90px;
+        border: 1px black solid;
+      }
+
+      .circle2{
+        width: 150px;
+        height: 150px;
+        background-color: rgb(172, 112, 136);
+        border-radius: 50%;
+        margin-left: 1020px;
+        margin-top: 160px;
+        border: 1px black solid;
+      }
+      
+      .NTI{
+        width: 400px;
+        border:1.5px black solid;
+        border-radius: 10%;
+        margin-left: 50px;
+        margin-top: 40px;
+      }
+
+      .NTItext{
+        margin-top: 0px;
+        margin-left: 70px;
+      }
+
+
+
+.div1{
+    width: 1240px;
+    height: 60px;
+    background-color: rgb(249, 245, 235);
+    border:1.5px black solid;
+    border-radius: 10px;
+}
+      .Headline{
+        font-size: 50px;
+        margin-left: 20px;
+      }
+
+      .Google{
+        font-size: 30px;
+        margin-left: 590px;
+        color: rgb(172, 112, 136);
+      }
+
+      h1{
+        width: 50%;
+        height: 60px;
+        margin: 0;
+        padding: 0;
+        display: inline;
+      }
+
+
+
+.div2{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(245, 232, 199);
+    border:1px black solid;
+    border-radius: 10px;
+    margin-left: 780px;
+}
+      .education{
+        margin-left: 20px;
+        margin-top: 10px;
+      }
+
+
+
+.div3{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(236, 204, 178);
+    border: 1px black solid;
+    border-radius: 10px;
+    margin-left: 550px;
+    margin-top: 58px;
+}
+      .work{
+        margin-left: 20px;
+      }
+
+
+
+footer{
+  background-color: rgb(249, 245, 235);
+  border: 1.5px black solid;
+  border-radius: 10px;
+}
+    .headlref{
+      margin-left: 20px;
+      text-decoration: underline;
+    }
+
+    .underlref{
+      margin-left: 20px;
+    }
+
+    .refrences{
+      margin-left: 20px;
+    }
